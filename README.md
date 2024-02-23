@@ -9,9 +9,6 @@ The output file size also around ~75kb!
 
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
 
-## **Credits**
-The rootkit in the project was made by "bytecode77". The source of the rootkit can be found here: https://github.com/bytecode77/r77-rootkit
-
 ## **Setup Guide:**
 1. Download release.zip and discordrat.zip
 2. Extract both of them into Desktop to make all more easy
